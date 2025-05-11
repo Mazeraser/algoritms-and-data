@@ -1,0 +1,5 @@
+4
+banana
+apple
+apricot
+cherry
